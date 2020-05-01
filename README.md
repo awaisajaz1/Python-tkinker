@@ -1,7 +1,6 @@
 # Python-tkinker
 
 #About
-
                                                                                                                    ![](docs/images/logo.png)
                                                                                                                    
 Python uses a GUI library called Tkinter as default. This set of classes allows 
