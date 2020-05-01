@@ -1,8 +1,7 @@
 # Python-tkinker
 
-#About
-                                                                                                                   ![](docs/images/logo.png)
-                                                                                                                   
+![](docs/images/logo.png)
+
 Python uses a GUI library called Tkinter as default. This set of classes allows 
 interactive spreadsheet-style tables to be added into an application. Tkinter
 is the standard GUI toolkit for python. It is old but still quite popular.
